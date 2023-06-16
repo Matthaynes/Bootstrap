@@ -44,5 +44,4 @@
       type: 'bar',
       data: barData,
       options: barOptions
-    });
-  </script>
+    })
